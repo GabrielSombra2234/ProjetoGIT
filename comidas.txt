@@ -2,3 +2,7 @@ lasanha
 biscoito
 bolacha
 alface
+banana
+laranja
+tomate
+morango
